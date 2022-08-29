@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif bold;
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color: #000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(https://aventurasnahistoria.uol.com.br/media/_versions/legacy/2017/05/23/poderoso_widelg.png);
+  background-size: cover;
+  text-align: center;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+label,
+span {
+  color: #fafafa;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2em;
+  color: #fafafa;
+  margin: 20px 0 30px;
+}
+
+.field {
+  margin: 0.8rem;
+}
+
+.field label {
+  margin: 0.5rem;
+}
+
+.footer {
+  margin-top: 2rem;
+  width: 30%;
+}
